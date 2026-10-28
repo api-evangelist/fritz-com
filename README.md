@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-FRITZ! (formerly AVM, FRITZ!Box) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://fritz.com/
+FRITZ! (formerly AVM, FRITZ!Box) provides networking hardware and smart home solutions, including routers, repeaters, and home automation devices. The company offers APIs for device management, firmware updates, and integration with smart home platforms, serving both consumers and developers.
+
+**Areas:** Routers · Mesh Wi‑Fi · Smart Home · Telephony
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fritz.com/)
+- [Terms of service](https://fritz.com/policies/legal-notice)
+- [Privacy policy](https://fritz.com/policies/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/fritz-com/](https://apis.io/providers/fritz-com/).
